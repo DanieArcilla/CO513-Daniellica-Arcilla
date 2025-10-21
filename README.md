@@ -1,4 +1,4 @@
-# CO513-Daniellica-Arcilla 
+# CO513-Assignment 1- Daniellica-Arcilla 
 There are a number of difficulties in completing these ARMv7 assembly assignments. First, even little errors can cause crashes or wrong outcomes because low-level programming necessitates exact control over registers and memory. It takes a thorough understanding of instruction sets to implement logic such as loops, conditionals, and arithmetic without the need of high-level constructs. Careful planning and debugging are also necessary for tasks like bitwise operations for parity, pointer arithmetic for array traversal, and simulating division for GCD. All things considered, it's a fantastic exercise in algorithmic thinking, attention to detail, and understanding the foundations of computer design.
 
 Youtube link:
