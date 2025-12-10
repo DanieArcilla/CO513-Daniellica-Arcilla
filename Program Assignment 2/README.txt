@@ -4,4 +4,5 @@ This program implements software debouncing. When a key press is detected, the p
 
 Here's the link for my simulation video:
 
-https://youtu.be/7Y2JCRCpxOg
+PART 1: https://youtu.be/7LgCpioew3U
+PART 2: https://youtu.be/YBefYGQ9c1I
